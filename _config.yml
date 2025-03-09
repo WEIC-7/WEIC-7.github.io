@@ -11,7 +11,7 @@ title                    : "Weichen's Homepage"
 title_separator          : "-"
 name                     : &name "Weichen Zhou"
 description              : &description "周蔚琛"
-url                      : https://WEIC-7.github.io"
+url                      : https://WEIC-7/zhou-weichen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WEIC-7/zhou-weichen.github.io"
 
