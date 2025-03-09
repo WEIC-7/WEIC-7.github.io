@@ -22,7 +22,9 @@ An undergraduate student majoring in Intelligent Medical Engineering at Shenzhen
 
 
 ## Education Experience
-* B.Eng. in Intelligent Medical Engineering | **Shenzhen Technology University** | 2021-2025
+* B.Eng. in Intelligent Medical Engineering  
+  **Shenzhen Technology University**  
+  Shenzhen, China | 2021–2025  
 
 
 ## Research Interests
