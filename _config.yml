@@ -11,7 +11,7 @@ title                    : "Weichen's Homepage"
 title_separator          : "-"
 name                     : &name "Weichen Zhou"
 description              : &description "周蔚琛"
-url                      : https://WEIC-7/zhou-weichen.github.io
+url                      : https://weic-7.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WEIC-7/zhou-weichen.github.io"
 
@@ -21,13 +21,13 @@ repository               : "WEIC-7/zhou-weichen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Weichen Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zweic008@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
