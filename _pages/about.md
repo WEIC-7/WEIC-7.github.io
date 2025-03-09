@@ -10,11 +10,11 @@ redirect_from:
 
 Test
 ## Biography
-An undergraduate student majoring in Intelligent Medical Engineering at Shenzhen University of Technology, focusing on intelligent analysis of medical images and development of artificial intelligence algorithms. With solid Python programming skills and practical experience in deep learning, he is committed to solving practical problems in clinical medicine through technological innovation. Currently pursuing further studies.
+An undergraduate student majoring in Intelligent Medical Engineering at Shenzhen University of Technology, focusing on intelligent analysis of medical images and development of artificial intelligence algorithms. 
 
 
 ## Working Experience
-* **07/2023-Present | Large Model Intern**
+* **07/2023-Present  |  Large Model Intern**
 **Shenzhen MGI Technology Co., Ltd.**
 - Research on fine-tuning, application and deployment of visual language model (VLM) in vertical fields.
 - Build image-text pair datasets.
@@ -22,8 +22,7 @@ An undergraduate student majoring in Intelligent Medical Engineering at Shenzhen
 
 
 ## Education Experience
-* **09/2021-06/2025 | Bachelor of Engineering in Intelligent Medical Engineering**
-**Shenzhen University of Technology School of Health and Environmental Engineering**
+* **09/2021-06/2025  |  Bachelor of Engineering in Intelligent Medical Engineering** Shenzhen Technology University
 
 
 ## Research Interests
