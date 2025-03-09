@@ -20,7 +20,7 @@ repository               : "WEIC-7/WEIC-7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sztu.jpg"
+  avatar           : "/images/sztu.jpg"
   name             : "Weichen Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student of Intelligent Medical Engineering at Shenzhen Technology University"
