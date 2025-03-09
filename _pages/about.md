@@ -15,7 +15,7 @@ An undergraduate student majoring in Intelligent Medical Engineering at Shenzhen
 
 ## Working Experience
 * **07/2023-Present | Large Model Research Intern**  
-  **Shenzhen MGI Technology Co., Ltd. (华大智造)**  
+  **Shenzhen MGI Technology Co., Ltd. **  
     - Research on fine-tuning, application and deployment of visual language model (VLM) in vertical fields.
     - Build image-text pair datasets.
     -Fine-tune GLM-4V, Phie-Vision, Deepseek-v1.
@@ -23,8 +23,7 @@ An undergraduate student majoring in Intelligent Medical Engineering at Shenzhen
 
 ## Education Experience
 * B.Eng. in Intelligent Medical Engineering  
-  **Shenzhen Technology University**  
-  Shenzhen, China | 2021–2025  
+  Shenzhen Technology University | 2021–2025  
 
 
 ## Research Interests
